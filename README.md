@@ -19,23 +19,7 @@ Ensure the code follows PEP8 conventions for Python.
 
 Adhere to Django best practices, including proper project structure, reusable components, and efficient database queries.
 
-Clear and Detailed README:
 
-Write a comprehensive README file that includes:
-
-Project setup instructions.
-
-Explanation of features and functionality.
-
-Dependencies and installation steps.
-
-Usage examples and screenshots (if applicable).
-
-Proper Git Commit Messages:
-
-Use meaningful and descriptive Git commit messages.
-
-Follow a consistent commit message convention (e.g., Conventional Commits).
 
 Technical Stack
 Backend: Django (Python)
